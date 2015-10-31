@@ -1,0 +1,1 @@
+dat = read.table("~/git/FDS/HW3/q4c.txt", sep = "\t")
